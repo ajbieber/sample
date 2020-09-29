@@ -4,7 +4,7 @@ metadata:
   name: sample
   description: sample
   annotations:
-    jenkins.io/github-folder: folder/sample
+    jenkins.io/github-folder: ajbieber/sample
 spec:
   type: website
   lifecycle: experimental
